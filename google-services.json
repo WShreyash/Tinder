@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372861010227",
+    "project_id": "tinderbykagenou",
+    "storage_bucket": "tinderbykagenou.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372861010227:android:944464e218205f84f23e46",
+        "android_client_info": {
+          "package_name": "host.expo.exponent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDrWwgeXy4RcsSOj_1AL9fxR2MiL5wGok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
